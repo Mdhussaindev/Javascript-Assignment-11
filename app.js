@@ -19,11 +19,11 @@ function deleteRow(btn) {
 // Q4
 
 function changeImage(img) {
-  img.src = "nature2.jpg";
+  img.src = "https://img.freepik.com/free-photo/green-trees-near-body-water-daytime_395237-20.jpg?semt=ais_hybrid&w=740&q=80";
 }
 
 function resetImage(img) {
-  img.src = "nature1.jpg";
+  img.src = "https://t4.ftcdn.net/jpg/02/91/24/27/360_F_291242770_z3XC7rJB1Mvc5jVMsEY9Dx2xMrX4sxUi.jpg";
 }
 
 // Q5
