@@ -9,6 +9,7 @@ function showAlert() {
 function buyPhone(model) {
   alert("Thanks for purchasing a phone from us: " + model);
 }
+
 // Q3
 
 function deleteRow(btn) {
